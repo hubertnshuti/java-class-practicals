@@ -10,5 +10,5 @@
         <maven.compiler.release>25</maven.compiler.release>
         <exec.mainClass>com.mycompany.socketprogramming.Socketprogramming</exec.mainClass>
     </properties>
-    <name>JavaControlStructures</name>
+    <name>JavaSocketProgramming</name>
 </project>
